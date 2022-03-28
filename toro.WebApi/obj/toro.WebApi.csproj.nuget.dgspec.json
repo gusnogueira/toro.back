@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.WebApi\\toro.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj",
+        "projectName": "toro.Data",
+        "projectPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj",
+        "packagesPath": "C:\\Users\\DPCDTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DPCDTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-NuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\toro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\toro.Domain.csproj",
+        "projectName": "toro.Domain",
+        "projectPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\toro.Domain.csproj",
+        "packagesPath": "C:\\Users\\DPCDTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DPCDTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-NuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj": {
+                "projectPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.WebApi\\toro.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.WebApi\\toro.WebApi.csproj",
+        "projectName": "toro.WebApi",
+        "projectPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.WebApi\\toro.WebApi.csproj",
+        "packagesPath": "C:\\Users\\DPCDTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DPCDTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-NuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj": {
+                "projectPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Data\\toro.Data.csproj"
+              },
+              "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\toro.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\toro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

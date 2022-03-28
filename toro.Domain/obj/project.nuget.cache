@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yroFWL96IEy3b7Dw3iD0pD68wGkcN1mjS1nPDsLgescy5NP0fBvnP+6ICncgH84iLetfkyeN8Yl6P/YCmT0O+g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\gustavo\\Toro\\toro.back\\toro.WebApi\\toro.Domain\\toro.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DPCDTI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\bin\Debug\net5.0\toro.Domain.deps.json
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\bin\Debug\net5.0\toro.Domain.dll
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\bin\Debug\net5.0\ref\toro.Domain.dll
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\bin\Debug\net5.0\toro.Domain.pdb
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.AssemblyInfoInputs.cache
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.AssemblyInfo.cs
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.dll
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\ref\toro.Domain.dll
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.pdb
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\bin\Debug\net5.0\toro.Data.dll
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\bin\Debug\net5.0\toro.Data.pdb
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.csproj.AssemblyReference.cache
+C:\Projetos\gustavo\Toro\toro.back\toro.WebApi\toro.Domain\obj\Debug\net5.0\toro.Domain.csproj.CopyComplete
