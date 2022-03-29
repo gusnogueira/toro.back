@@ -26,7 +26,20 @@ namespace toro.Domain.Services
             var userValues = _userValuesRepository.GetUserValuesByUserId(userId);
             var userInvestments = _investmentRepository.GetUserInvestmentsByUserId(userId);
 
-            return GetUserPositionOutput(userValues, userInvestments);
+            if (userValues != null)
+            {
+                return GetUserPositionOutput(userValues, userInvestments);
+            }
+            else if (userInvestments == null)
+            {
+                return new UserPositionOutputDto()
+                {
+                    CheckingAccountAmount = userValues.CheckingAccountAmount,
+                    Consolidated = userValues.Consolidated,
+                    Positions = new List<Investment>()
+                };
+            }
+            else return null;
         }
 
         private static UserPositionOutputDto GetUserPositionOutput(UserValues userValues, IEnumerable<Investment> userInvestments)
